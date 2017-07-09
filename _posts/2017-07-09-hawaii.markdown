@@ -1,0 +1,23 @@
+---
+title:  "Hawaii"
+subtitle: "Rendevouz with the Nassabis"
+author: "Jamie"
+avatar: "img/authors/jamie.jpeg"
+image: "img/hawaii/beach.jpg"
+date:   2017-07-09 12:12:12
+---
+
+John's sister's family, the Nassabis were visiting Hawaii so we decided to meet up with them.  We had been looking forward to this vacation for months.  We stayed in a bungalow right on Waimanalo beach- away from the hustle and bustle of Waikiki.  John taught me how to boogie board and snorkel.  I loved snorkeling!  It's very peaceful to watch the fish swim around the beautiful coral.
+
+![](../img/hawaii/water.jpg){:height="400px"}
+![](../img/hawaii/dive.jpg){:height="200px"}
+![](../img/hawaii/purple.jpg){:height="200px"}
+
+We also met up with my Uncle Elvis, and put flowers on the graves of my grandma Peace and grandpa Lloyd at the National Memorial Cemetery of the Pacific.  The cemetery is a stunningly beautiful setting in an ancient volcano crater overlooking Waikiki, known as the "Punchbowl".
+
+![](../img/hawaii/memorial.jpg){:height="400px"}
+![](../img/hawaii/headstone.jpg){:width="300px"}
+
+We then had the pleasure of dining at La Mer which has impeccably attentive service.
+
+![](../img/hawaii/lamer.jpg){:height="400px"}
