@@ -9,9 +9,9 @@ date:   2017-07-07 12:12:12
 
 My friend Sarah insisted that I have a last hurrah before I get married.  So she made me wear a tiara and a sash and we went gay bar hopping in Dallas.  I was dubious about the tiara but it was fun because a lot of strangers came up to me and said "Congratulations!".  One guy even asked if it was my 21st birthday, which was awesome.  The drag show was great and we met some interesting characters including Wonder Woman and a "straight" waiter.
 
-![](../img/bachelorette/wonder.jpg){:height="400px"}
-![](../img/bachelorette/man.jpg){:height="400px"}
+![](../img/bachelorette/wonder.jpg){:width="48%"}
+![](../img/bachelorette/man.jpg){:width="48%"}
 
 BTW I was about 5 shots in at that point.  Here's a better photo when the night was young.  Thanks Sarah for the special night out!
 
-![](../img/bachelorette/couple.jpg){:height="400px"}
+![](../img/bachelorette/couple.jpg){:width="100%"}
